@@ -2,20 +2,13 @@
 
 > Vue2.0构建移动端音乐 App
 
-## 预览地址：http://www.upyang.com/Vue-music/index.html#/recommend
-
-## 效果截图
-<img src="https://github.com/Aaron0525/Vue-music/blob/master/static/1.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/2.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/3.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/4.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/5.png" width="250" height="400">  <img src="https://github.com/Aaron0525/Vue-music/blob/master/static/6.png" width="250" height="400">
-
-
-
 
 ## 安装与运行
 
 ```
-git clone https://github.com/Aaron0525/Vue-music.git
+git clone https://github.com/zhangyake/vue-music.git
 
-cd Vue-music
+cd vue-music
 
 npm install //安装依赖
 
