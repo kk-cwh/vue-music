@@ -2,6 +2,7 @@
 
 > Vue2.0构建移动端音乐 App
 
+https://zhangyake.github.io/vue-music/dist
 
 ## 安装与运行
 
